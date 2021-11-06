@@ -22,6 +22,11 @@ tr.append(tdData)
 let tdStatus  = document.createElement("td")
 tdStatus.innerText = "Pendente"
 tr.append(tdStatus)
+
+let tdExcluir  = document.createElement("td")
+tdExcluir.innerHTML = "<button>Excluir</button>"
+tr.append(tdExcluir)
+
 table.append(tr)
 
 console.log(elData.value)
