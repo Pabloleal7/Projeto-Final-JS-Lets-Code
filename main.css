@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.top {
+  width: 100%;
+  height: 120px;
+  background-color: #161925;
+  color: white;
+  padding-top: 20px;
+  text-align: center;
+}
+.conteudo {
+  margin-top: 30px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.form > * {
+  padding: 10px;
+}
+
+.botao {
+  width: 180px;
+  height: 25px;
+  background-color: #c1292e;
+
+  border-style: none;
+}
+
+.botao:hover {
+  background-color: #a12226;
+}
+
+.tabela {
+  display: flex;
+  justify-content: center;
+}
+
+.table {
+  border-style: solid;
+  max-width: 400px;
+}
