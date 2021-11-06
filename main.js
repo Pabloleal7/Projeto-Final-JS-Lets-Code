@@ -27,7 +27,12 @@ let tdExcluir  = document.createElement("td")
 tdExcluir.innerHTML = "<button>Excluir</button>"
 tr.append(tdExcluir)
 
-table.append(tr)
+if((elTarefa.value && elData.value) != ""){
+  table.append(tr)
+}else{
+  alert("Preencha todos os Campos")
+}
+
 
 console.log(elData.value)
 
