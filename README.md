@@ -8,4 +8,4 @@ Funcionalidades
 
 Adicionar Tarefas
 Excluir Tarefas
-Marcar como Feito
+Salva no localStorage
