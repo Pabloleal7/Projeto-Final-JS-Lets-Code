@@ -46,9 +46,15 @@ body {
 
 .table {
   border-style: solid;
-  max-width: 400px;
+  min-width: 500px;
+  max-width: 90%;
 }
 
 td{
   padding: 6px;
+ 
+}
+
+.pendente{
+  color: #C1292E;
 }
