@@ -1,11 +1,11 @@
 # Projeto-Final-JS-Lets-Code
 
-Atividade final do modulo de Javascript do curso da Lets-Code
+#Atividade final do modulo de Javascript do curso da Lets-Code
 
-Gerenciador de tarefas
+#Gerenciador de tarefas
 
-Funcionalidades
+#Funcionalidades
 
-Adicionar Tarefas
-Excluir Tarefas
-Salva no localStorage
+#Adicionar Tarefas
+#Excluir Tarefas
+#Salva no localStorage
